@@ -1,0 +1,74 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+.navbar {
+    background-color: #ff33ff;
+}
+
+html, body {
+    overflow-x: hidden;
+    width: 100%;
+}
+
+.carousel img {
+    height: 500px;
+
+}
+
+.text-tittle {
+    font-family: "Dancing Script", cursive;
+    color: #fff;
+}
+
+#cabecalho .nav .nav-link.active {
+    background-color: #fff;
+    color: #ff33ff;
+}
+
+#cabecalho .nav .nav-link,
+.navbar-brand,
+.navbar-brand:hover,
+.nav-cardapio .nav-link.active:hover {
+    color: #fff;
+}
+
+.navbar-toggler {
+    background-color: #fff;
+}
+
+#sobre-o-studio,
+#fale-conosco {
+    background-color: #ffb3ff;
+}
+
+.sobre-o-studio img {
+   border-radius: 50%;
+   align-items: center;
+   height: 50vh;
+   width: 100%;
+}
+
+.text-colored {
+    color: #ff33ff;
+}
+
+.text-preco {
+    font-size: 20px;
+    color: green;
+}
+
+.social-links li {
+    list-style: none;
+}
+
+.social-links {
+    justify-content: center;
+}
+
+footer {
+    background-color: #ff33ff;
+    padding: 12px;
+    color: #fff;
+}
+
