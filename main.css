@@ -21,6 +21,10 @@ html, body {
     color: #fff;
 }
 
+.text-border {
+    border-bottom: 1px solid #ff33ff;
+}
+
 #cabecalho .nav .nav-link.active {
     background-color: #fff;
     color: #ff33ff;
